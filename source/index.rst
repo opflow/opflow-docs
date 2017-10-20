@@ -1,6 +1,6 @@
 
 *****************************
-Introduction to Opflow
+Opflow Framework
 *****************************
 
 Opflow is an event-driven microservice framework based on Rabbitmq. It provides libraries in various programming languages (java, nodejs, python, ruby, .NET, ...). Opflow implements 2 remote connecting models:
