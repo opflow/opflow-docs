@@ -1,5 +1,5 @@
-opflow-nodejs module
-====================
+opflow-nodejs
+=============
 
 Overview
 --------

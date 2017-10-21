@@ -1,5 +1,5 @@
-opflow-java module
-==================
+opflow-java
+===========
 
 Overview
 --------

@@ -1,5 +1,5 @@
-opflow-python module
-====================
+opflow-python
+=============
 
 Overview
 --------
